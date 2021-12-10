@@ -1,0 +1,4 @@
+*.meta
+*.cd
+*.us
+Library\PackageCache\*
