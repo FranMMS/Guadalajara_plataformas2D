@@ -1,0 +1,2 @@
+F:\unity_games\Plataformas_Guadalajara\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\unity_games\Plataformas_Guadalajara\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
