@@ -184,6 +184,7 @@ public class PlayerScript : MonoBehaviour
 
 
         anim.SetBool("isWalking", true);
+
         if (Input.GetKey(KeyCode.D))
         {
             if (canMove)
@@ -234,10 +235,13 @@ public class PlayerScript : MonoBehaviour
     {
         Vector2 pos = transform.localScale;
 
-        if (Input.GetKey(KeyCode.D) && isFliped)
+        if (Input.GetKey(KeyCode.D))
         {
-            transform.Rotate(0, 180, 0);
-            isFliped = false;
+            if (isFliped)
+            {
+                transform.Rotate(0, 180, 0);
+                isFliped = false;
+            }
         }
         else if (Input.GetKey(KeyCode.A) && !isFliped)
         {
