@@ -3,3 +3,12 @@
 *.us
 Library\PackageCache\*
 /Library/
+
+Library/PackageCache
+/Library/PackageCache
+
+Library/PackageCache/
+/Library/PackageCache/
+
+Library/PackageCache/*
+/Library/PackageCache/*
