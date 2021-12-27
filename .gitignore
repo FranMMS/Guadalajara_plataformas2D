@@ -2,3 +2,4 @@
 *.cd
 *.us
 Library\PackageCache\*
+/Library/
