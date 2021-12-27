@@ -12,3 +12,6 @@ Library/PackageCache/
 
 Library/PackageCache/*
 /Library/PackageCache/*
+
+\Library\PackageCache\
+\Library\PackageCache\*
