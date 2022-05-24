@@ -265,7 +265,7 @@ MonoBehaviour:
   playerLife: 0
   isFliped: 0
   velocity: 7
-  jumpForce: 15
+  jumpForce: 22
   maxButtonHoldTime: 1
   holdForce: 25
   distanceToCollider: 0.08
